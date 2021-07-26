@@ -24,4 +24,7 @@ Once equipped with components supporting the runtime specification of behaviour 
 
 
 ##Further information
-The project has been funded by the second open call in the [XR4All H2020 project](https://xr4all.eu) and started in October 2020. 
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme through the [XR4All H2020 project](https://xr4all.eu) project with grant agreement No 825545.
+It started in October 2020 and ended in June 2021. 
+
+The project results are available in the [XR4All solution catalogue](https://dev.xr4all.eu/product/ecarules4all-vr-for-everyone/)
