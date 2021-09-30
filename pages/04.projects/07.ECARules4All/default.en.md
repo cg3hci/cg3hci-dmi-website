@@ -61,7 +61,7 @@ For creating a usable configuration mechanism, EUDevs need a language for specif
 ##Demonstration Video
 The following video shows the process of a sample XR Template configuration by an end-user.
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=lQBSsNolP3w"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/lQBSsNolP3w"></iframe>
 
 
 
