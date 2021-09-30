@@ -2,6 +2,7 @@
 title: D3P2
 visible: false
 date: '30-04-2020 16:52'
+publish_date: '30-04-2020 16:52'
 ---
 
 <div style="text-align: center">
