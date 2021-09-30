@@ -10,17 +10,36 @@ a project should be designed, coded and presented.
 Thank you very much to all the students that provided this material.
 
 
-##Year
-* [2019](#2019)
+##Academic Year
+* [2020-2021](#2020)
+    * [LSTM for real-time stroke gestures recognition](#lstm)
+* [2019-2020](#2019)
     * [FeedBucket](#feedbucket)
-* [2018](#2018)
+* [2018-2019](#2018)
     * [PAC-PAC](#pac-pac)
     * [AI4Fit](#ai4fit)
     * [MR2](#mr2)
-    
+      
+<a id="2020"></a>   
+##2020-2021
+
+<a id="lstm"></a>
+<hr>
+
+###Applying Long-Short Term Memory Recurrent Neural Networks for Real-Time Stroke Recognition.
+*Emanuele Ledda*
+
+####Abstract
+The project is about building a real-time recognizer for stroke gestures based on Long Short Term Memory Recurrent Neural Networks. The recognizer provides both the gesture class prediction and the completion percentage estimation for each point in the stroke while the user is performing it. It considers the stroke vocabulary of the $1 and $N datasets, defining four different architectures. The training used synthetic data, and we assessed the recognition accuracy on the original $1 and $N datasets. The results show an accuracy comparable with state of the art approaches classifying the stroke when completed, and a good precision in the completion percentage estimation.
+
+####Paper 
+The paper was accepted as a TechNote at the Engineering Interactive Computing System Conference ([EICS 2021](https://eics.acm.org/eics2021/))
+
+[Fulltext](2020/eics2021_technote.pdf)
+
 <a id="2019"></a>
 
-##2019
+##2019-2020
 
 <a id="feedbucket"></a>
 <hr>
@@ -45,7 +64,7 @@ Advanced Visual Interfaces ([AVI 2020](https://sites.google.com/unisa.it/avi2020
 
 <a id="2018"></a>
 
-##2018
+##2018-2019
 
 <a id="pac-pac"></a>
 <hr>
