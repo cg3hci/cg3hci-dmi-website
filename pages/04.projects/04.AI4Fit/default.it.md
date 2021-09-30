@@ -1,6 +1,8 @@
 ---
 title: AI4FIT
 visible: false
+date: '30-12-2019 16:52'
+publish_date: '30-12-2019 16:52'
 ---
 
 <div style="text-align: center">

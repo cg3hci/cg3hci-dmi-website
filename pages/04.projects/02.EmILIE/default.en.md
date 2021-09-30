@@ -1,6 +1,8 @@
 ---
 title: EmILIE
 visible: false
+date: '30-04-2019 16:52'
+publish_date: '30-04-2019 16:52'
 ---
 
 <div style="text-align: center">
