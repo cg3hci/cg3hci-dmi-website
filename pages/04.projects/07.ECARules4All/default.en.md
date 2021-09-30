@@ -24,9 +24,14 @@ It started in October 2020 and ended in June 2021.
 The project results are available in the [XR4All solution catalogue](https://dev.xr4all.eu/product/ecarules4all-vr-for-everyone/)
 
 ## Outline
-1. [Project Description](#obiettivi)
-2. [Demonstration Video](#video)
+1. [Demonstration Video](#video)
+2. [Project Description](#obiettivi)
 3. [The Research Group](#gruppo)
+
+<a id="video"></a>
+##Demonstration Video
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/lQBSsNolP3w"></iframe>
 
 <a id="obiettivi"></a>
 
@@ -56,12 +61,21 @@ For creating a usable configuration mechanism, EUDevs need a language for specif
 * A way for specifying the interaction among these objects, resulting in the definition of the XR environment behaviour. We propose to support it through rules, readable and understandable as natural language sentences.
 * A user interface for entering the rules while immersed in the environment.
 
-<a id="video"></a>
+<a id="group"></a>
+##ResearchGroup
+* **Lucio Davide Spano** Principal Investigator
+* **Ivan Blecic** Project idea co-author
 
-##Demonstration Video
-The following video shows the process of a sample XR Template configuration by an end-user.
+###Project Development Team
+* **Valentino Artizzu**
+* **Gianmarco Cherchi**
+* **Davide Fara**  
+* **Vittoria Frau**
+* **Riccardo Macis**
+* **Luca Pitzalis**
+* **Alessandro Tola** 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/lQBSsNolP3w"></iframe>
+
 
 
 
