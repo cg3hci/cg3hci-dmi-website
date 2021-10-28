@@ -5,43 +5,66 @@ title: Archivio Progetti IUM
 
 #Archivio Progetti di Interazione Uomo Macchina (IUM)
 
-In questa pagina manterrò un elenco dei progetti migliori presentati durante le edizioni del corso di IUM. I progetti sono a disposizione degli studenti del corso per capire come un progetto possa essere ideato, implementanto e presentato.
+In questa pagina manterrò un elenco dei progetti migliori presentati durante le edizioni del corso di IUM. 
+I progetti sono a disposizione degli studenti del corso per capire come un progetto possa essere ideato, implementanto e presentato.
 Grazie agli alunni che hanno messo a disposizione questo materiale.
 
 ##Elenco dei Progetti
 * [2020-2021](#2020)
- * [test](#lstm)
+    * [FantaEccellenza](#fantaeccellenza)
+    * [Corri Forrest](#corriforrest)
 * [2019-2020](#2019)
- * [Quo Vado](#quovado)
- * [Easy Cook](#easycook)
- * [Rent a Kick](#rentakick)
+    * [Quo Vado](#quovado)
+    * [Easy Cook](#easycook)
+    * [Rent a Kick](#rentakick)
 * [2018-2019](#2018)
- * [InstrIUMentalTrade](#instriumentaltrade)
- * [Spesiamo](#spesiamo)
- * [BenzinApp](#benzinapp)
+    * [InstrIUMentalTrade](#instriumentaltrade)
+    * [Spesiamo](#spesiamo)
+    * [BenzinApp](#benzinapp)
 * [2017-2018](#2017)
- * [Bloggalo](#bloggalo)
- * [Clan Manager](#clanmanager)
+    * [Bloggalo](#bloggalo)
+    * [Clan Manager](#clanmanager)
 * [2016-2017](#2016)
- * [ShopMemo](#shopmemo)
- * [Hi-Fi Rooms](#hifirooms)
- * [IUMangi](#iumangi)
+    * [ShopMemo](#shopmemo)
+    * [Hi-Fi Rooms](#hifirooms)
+    * [IUMangi](#iumangi)
 * [2015-2016](#2015)
- * [Basket Manager](#basketmanager)
- * [Hand Sketch](#handsketch)
- * [Next Delivery](#nextdelivery)
- * [Easy Parking](#easyparking)
+    * [Basket Manager](#basketmanager)
+    * [Hand Sketch](#handsketch)
+    * [Next Delivery](#nextdelivery)
+    * [Easy Parking](#easyparking)
 * [2014-2015](#2014)
- * [Check Engine](#checkengine)
- * [Fanta Cappuccio](#fantacappuccio)
- * [Fit Me Hard](#fitmehard)
+    * [Check Engine](#checkengine)
+    * [Fanta Cappuccio](#fantacappuccio)
+    * [Fit Me Hard](#fitmehard)
 * [2013-2014](#2013)
- * [Shop ‘n’ Go](#shopngo)
- * [Swimdroid](#swimdroid)
+    * [Shop ‘n’ Go](#shopngo)
+    * [Swimdroid](#swimdroid)
 
 
 <a id="2020"></a>
 ##Anno 2020-2021
+<a id="fantaeccellenza"></a>
+###FantaEccellenza
+*Eligio Cabras, Marco Mulas, Alessio Piriottu, Alessandro Pruner*
+
+Applicazione per il Fantacalcio su leghe minori. 
+
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/10_y_IqkLTLKbOtmC2ZAoAsMrUDoZ1zCm/view?usp=sharing)
+| [Presentazione](https://docs.google.com/presentation/d/1iFQlvh5hDQ42hhD3k-MV81GBa2qVCVWnCGACJPKUBgU/edit?usp=sharing)
+| [Prototipo Alta Fedeltà](https://drive.google.com/file/d/1YUICnObp27ULsJKNGSDXEe7lPci4za0-/view?usp=sharing)
+
+
+<a id="corriforrest"></a>
+###Corri Forrest
+*Edoardo Lucchesi, Alessio Simbula*
+
+Applicazione di supporto e motivazione per corridori. 
+
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1xgliqQut-WCT5mRZuX20p5WFUe6DAPyc/view?usp=sharing)
+| [Presentazione](https://drive.google.com/file/d/1iAI2UXup6cT_Id3QAEzS1r0tho5_5AJ6/view?usp=sharing)
+| [Video](https://drive.google.com/file/d/1owdbPUoct8t2eFYgRpBih-HUbAtigObk/view?usp=sharing)
+| [Prototipo Alta Fedeltà](https://github.com/Yagotzirck/IUM_CorriForrest/)
 
 <a id="2019"></a>
 ##Anno 2019-2020
@@ -52,7 +75,7 @@ Grazie agli alunni che hanno messo a disposizione questo materiale.
 
 Applicazione per la pianificazione di viaggi.
 
-[Proposta](https://drive.google.com/file/d/11FijA86A19VFtI9ZKGxP62Q_778dpvm_/view?usp=sharing)
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/11FijA86A19VFtI9ZKGxP62Q_778dpvm_/view?usp=sharing)
 | [Presentazione](https://docs.google.com/presentation/d/1i8HoWDxBFtvxqm6OhKFcBWMdIBcca6ae/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
 | [Video](https://docs.google.com/presentation/d/1i8HoWDxBFtvxqm6OhKFcBWMdIBcca6ae/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
 <hr>
@@ -63,7 +86,7 @@ Applicazione per la pianificazione di viaggi.
 
 Navigazione gestuale di ricette per cucina.
 
-[Proposta](https://drive.google.com/file/d/14vgx-UoFULmqXn-s7EQK7tT5aVXVlaV4/view?usp=sharing)
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/14vgx-UoFULmqXn-s7EQK7tT5aVXVlaV4/view?usp=sharing)
 | [Presentazione](https://drive.google.com/file/d/14vgx-UoFULmqXn-s7EQK7tT5aVXVlaV4/view?usp=sharing)
 | [Video](https://drive.google.com/file/d/1bzPRnN6KVVIRk11V-HjHmzKOphtndkNo/view?usp=sharing)
 <hr>
@@ -74,9 +97,9 @@ Navigazione gestuale di ricette per cucina.
 
 Applicazione per la prenotazione di campi da calcetto e ricerca di persone per la partita.
 
-[Proposta](https://drive.google.com/file/d/1Jb1iZG3Quuga3yWGFXfckfx3Tc8zYlzY/view?usp=sharing)
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1Jb1iZG3Quuga3yWGFXfckfx3Tc8zYlzY/view?usp=sharing)
 | [Presentazione](https://drive.google.com/file/d/1U6M---YHwzvAPPWVCP-zGb9FzromKTgt/view?usp=sharing)
-| [Codice prototipo](https://drive.google.com/file/d/1Jb1iZG3Quuga3yWGFXfckfx3Tc8zYlzY/view?usp=sharing)
+| [Prototipo Alta Fedeltà](https://drive.google.com/file/d/1Jb1iZG3Quuga3yWGFXfckfx3Tc8zYlzY/view?usp=sharing)
 <hr>
 
 <a id="2018"></a>
@@ -88,9 +111,9 @@ Applicazione per la prenotazione di campi da calcetto e ricerca di persone per l
 
 Applicazione per l’inserimento veloce di annunci di vendita per strumenti musicali.
 
-[Proposta](https://drive.google.com/file/d/1HnlsOB7nESWIdxB8ogv72iC6S7uLcZjx/view?usp=sharing)
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1HnlsOB7nESWIdxB8ogv72iC6S7uLcZjx/view?usp=sharing)
 | [Presentazione](https://docs.google.com/presentation/d/1uMMFP47_R7eErCPDxPUTnquiugDY2H75/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
-| [Codice prototipo](https://docs.google.com/presentation/d/1uMMFP47_R7eErCPDxPUTnquiugDY2H75/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
+| [Prototipo Alta Fedeltà](https://docs.google.com/presentation/d/1uMMFP47_R7eErCPDxPUTnquiugDY2H75/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
 <hr>
 
 <a id="spesiamo"></a>
@@ -110,7 +133,7 @@ Descrizione: Applicazione fare la spesa risparmiando.
 Ricerca di stazioni di servizio convenienti
 
 [Presentazione](https://docs.google.com/presentation/d/1dyavOzkxkZsHsn6s9bBfjhnPCx06YtxhLd2NAVTEEv0/edit?usp=sharing)
-| [Codice prototipo](https://github.com/conema/BenzinApp)
+| [Prototipo Alta Fedeltà](https://github.com/conema/BenzinApp)
 <hr>
 
 <a id="2017"></a>
@@ -122,7 +145,7 @@ Ricerca di stazioni di servizio convenienti
 
 Applicazione per la pubblicazione e la gestione di articoli per blog online.
 
-[Proposta](https://drive.google.com/file/d/1utWHXS4r_TFP2Jv2fqNq460AAHjK9SLY/view?usp=sharing)
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1utWHXS4r_TFP2Jv2fqNq460AAHjK9SLY/view?usp=sharing)
 | [Presentazione](https://drive.google.com/file/d/1utWHXS4r_TFP2Jv2fqNq460AAHjK9SLY/view?usp=sharing)
 <hr>
 
@@ -132,9 +155,9 @@ Applicazione per la pubblicazione e la gestione di articoli per blog online.
 
 Applicazione per la gestione di clan del gioco Clash of Clans.
 
-[Proposta](https://drive.google.com/file/d/1MyHMwVlj0A2fB647Ch8Zv45u_VW9Nlzj/view?usp=sharing)
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1MyHMwVlj0A2fB647Ch8Zv45u_VW9Nlzj/view?usp=sharing)
 | [Presentazione](https://docs.google.com/presentation/d/1D0Kvv60QLg7DaBkKQukr39Jx6Q2fAe-I/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
-| [Codice prototipo](https://github.com/Frac7/IUM)
+| [Prototipo Alta Fedeltà](https://github.com/Frac7/IUM)
 <hr>
 
 <a id="2017"></a>
@@ -146,9 +169,9 @@ Applicazione per la gestione di clan del gioco Clash of Clans.
 
 Applicazione mobile per la gestione dei diversi oggetti ritenuti interessanti durante lo shopping.
 
-[Proposta](https://docs.google.com/presentation/d/1D0Kvv60QLg7DaBkKQukr39Jx6Q2fAe-I/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
+[Prototipo Bassa Fedeltà](https://docs.google.com/presentation/d/1D0Kvv60QLg7DaBkKQukr39Jx6Q2fAe-I/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
 | [Presentazione](https://drive.google.com/file/d/125tvpWYwZcyDv3nppH1u_1sfTuLiWnyI/view?usp=sharing)
-| [Codice prototipo](https://github.com/SelimaCurci/ShopMemo)
+| [Prototipo Alta Fedeltà](https://github.com/SelimaCurci/ShopMemo)
 <hr>
 
 <a id="hififrooms"></a>
@@ -157,8 +180,8 @@ Applicazione mobile per la gestione dei diversi oggetti ritenuti interessanti du
 
 Interfaccia web per la visita virtuale di case a 360 gradi.
 
-[Proposta]()
-| [Presentazione]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1eFHpenb_OHeWHkGGEsmibQkNWD49phx1/view?usp=sharing)
+| [Presentazione](https://drive.google.com/file/d/1eFHpenb_OHeWHkGGEsmibQkNWD49phx1/view?usp=sharing)
 <hr>
 
 <a id="iumangi"></a>
@@ -167,10 +190,10 @@ Interfaccia web per la visita virtuale di case a 360 gradi.
 
 Strumento per l'organizzazione di pause pranzo.
 
-[Proposta]()
-| [Presentazione]()
-| [Codice prototipo]()
-| [Istruzioni e sequenza valutazione]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/11GUrKMib0VuTszQMtvGGPl-Y2mPpnCl6/view?usp=sharing)
+| [Presentazione](https://docs.google.com/presentation/d/1J30isvsNxrfdj1O7e4bpZcdT-74KLFiO/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
+| [Prototipo Alta Fedeltà](https://github.com/alessandroTola/iumanji-master)
+| [Istruzioni e sequenza valutazione](https://drive.google.com/file/d/1CXGqTHlhmaea1WyF0N71iT6ghzORmpRV/view?usp=sharing)
 <hr>
 
 <a id="2015"></a>
@@ -182,9 +205,9 @@ Strumento per l'organizzazione di pause pranzo.
 
 Assistente per arbitri di basket.
 
-[Proposta]()
-| [Presentazione]()
-| [Codice prototipo]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1zywz7Jz1PayTYj8FFx6cVcJGnjsZJeZG/view?usp=sharing)
+| [Presentazione](https://docs.google.com/presentation/d/1LsbNB6c1hv2MGelgR6ScNs3NZttpsJ3A/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
+| [Prototipo Alta Fedeltà](https://github.com/mattia-atzeni/basketmanager)
 <hr>
 
 <a id="handsketch"></a>
@@ -193,9 +216,9 @@ Assistente per arbitri di basket.
 
 Editor di immagini basato su gesti delle mani.
 
-[Proposta]()
-| [Presentazione]()
-| [Codice prototipo]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1d8lp6nGlqLkRqgKeJRvNsgQTvuKvHnRZ/view?usp=sharing)
+| [Presentazione](https://drive.google.com/file/d/19o77m4iG4jw9IVe53Bhm7wnt67ehdNRy/view?usp=sharing)
+| [Prototipo Alta Fedeltà](https://github.com/m-pilia/handsketch)
 <hr>
 
 <a id="nextdelivery"></a>
@@ -204,9 +227,9 @@ Editor di immagini basato su gesti delle mani.
 
 Applicazione mobile di gestione delle consegne.
 
-[Proposta]()
-| [Presentazione]()
-| [Codice prototipo]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1kZpTJDtneyvWWCT4TsTz6-9xz2ouIzaH/view?usp=sharing)
+| [Presentazione](https://drive.google.com/file/d/1fVxpwVEdDd2aMaKNK-TWkpeYU40qxYzp/view?usp=sharing)
+| [Prototipo Alta Fedeltà](https://drive.google.com/file/d/1X3vYkJ9gVG4H7sf6gUY-k1kudBdG0deE/view?usp=sharing)
 <hr>
 
 <a id="easyparking"></a>
@@ -215,8 +238,8 @@ Applicazione mobile di gestione delle consegne.
 
 Interfaccia per sensori di parcheggio low cost.
 
-[Proposta]()
-| [Codice prototipo]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1gbVotzmWIVClFmCk3bfpchvVB5zjSSMC/view?usp=sharing)
+| [Prototipo Alta Fedeltà](https://docs.google.com/presentation/d/1M8My43NmDeq-i_SKnhwEONcW4-oaGvU5/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
 <hr>
 
 <a id="2014"></a>
@@ -228,9 +251,9 @@ Interfaccia per sensori di parcheggio low cost.
 
 Applicazione per il controllo e la gestione dello stato di un veicolo.
 
-[Proposta]() |
-| [Presentazione con Video]()
-| [Codice prototipo]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1RaGGJhbH3iZ17y2wo4t-TGe9uvbzV-sZ/view?usp=sharing) |
+| [Presentazione con Video](https://docs.google.com/presentation/d/12NuqWIfg_1Xb984eRjJvoqwPNLsLRnfw/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
+| [Prototipo Alta Fedeltà](https://github.com/serusisergio/CheckEngine)
 <hr>
 
 <a id="fantacappuccio"></a>
@@ -239,9 +262,8 @@ Applicazione per il controllo e la gestione dello stato di un veicolo.
 
 Applicazione per la creazione e gestione di squadre al Fantacalcio.
 
-[Proposta]()
-| [Presentazione con Video]()
-| [Codice prototipo]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1OAOtoGjBNMhuQK4YAWTh6DMPSQ8YAORw/view?usp=sharing)
+| [Presentazione con Video](https://docs.google.com/presentation/d/1Utsukx6tWg06N4LMswf_HGCEpPXEOKyR/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
 <hr>
 
 <a id="fitmehard"></a>
@@ -250,10 +272,10 @@ Applicazione per la creazione e gestione di squadre al Fantacalcio.
 
 Guida per l’esecuzione di esercizi fisici su smartphone
 
-[Proposta]()
-| [Presentazione]()
-| [Video]()
-| [Codice prototipo]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1oMPUAbpRh2QXRnXlCiulBkG2wo53FJg7/view?usp=sharing)
+| [Presentazione](https://drive.google.com/file/d/1oMPUAbpRh2QXRnXlCiulBkG2wo53FJg7/view?usp=sharing)
+| [Video](https://www.youtube.com/watch?v=eF0hZ-zJrBI)
+| [Prototipo Alta Fedeltà](https://github.com/maury91/fitmehard)
 <hr>
 
 <a id="2013"></a>
@@ -265,10 +287,10 @@ Guida per l’esecuzione di esercizi fisici su smartphone
 
 Applicazione che assiste un cliente di un supermercato nella localizzazione dei prodotti, mostrando all’interno di una mappa il percorso più breve per raggiungerli.
 
-[Proposta]()
-| [Presentazione]()
-| [Video]()
-| [Codice prototipo]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1CsJamnT4xSUupMFnTswOrNEGQLknHKqx/view?usp=sharing)
+| [Presentazione](https://drive.google.com/file/d/1FjDZx1y35DlrVS7UGHFTSJ9PljSCktIG/view?usp=sharing)
+| [Video](https://www.youtube.com/watch?v=t595KK55SDU&feature=youtu.be)
+| [Prototipo Alta Fedeltà](https://drive.google.com/file/d/1tO0KMGOkyfyq9r7pqjqFmEY_Wm6DUYVK/view?usp=sharing)
 <hr>
 
 <a id="swimdroid"></a>
@@ -277,7 +299,7 @@ Applicazione che assiste un cliente di un supermercato nella localizzazione dei 
 
 Programmazione di allenamenti per nuotatori agonisti.
 
-[Proposta]()
-| [Presentazione con Video]()
-| [Codice prototipo]()
+[Prototipo Bassa Fedeltà](https://drive.google.com/file/d/1yTwofPxd1HVt4IEpVkNALTvxshBtlLan/view?usp=sharing)
+| [Presentazione con Video](https://docs.google.com/presentation/d/1KjlgB7aVoDmqmlzlKUJDxsIe3KTI5Gnp/edit?usp=sharing&ouid=106767764250983807504&rtpof=true&sd=true)
+| [Prototipo Alta Fedeltà](https://github.com/Beriol/IUM_Project_SwimDroid)
 <hr>
