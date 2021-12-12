@@ -1,8 +1,8 @@
 ---
-title: Virtuoso
+title: Tirocini inverno 2022
 date: '12-12-2021 17:23'
 publish_date: '12-12-2021 17:23'
-visible: false
+visible: true
 ---
 # Tirocini inverno 2022
 
