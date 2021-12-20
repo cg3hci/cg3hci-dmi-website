@@ -27,6 +27,9 @@ L'obiettivo del tirocinio è il miglioramento della qualità del software svilup
 **Tecnologie**: Web development, React.js, Three.js, AFrame.js, Neo4j. 
 
 ## RIALE: Explainable AI per la didattica
+
+*1 o 2 studenti*
+
 L’obiettivo del tirocinio sarà quello di migliorare l’interfaccia creata per il progetto RIALE, che dà la possibilità a degli studenti di accedere in modalità remota a dei video di esperimenti didattici effettuati in laboratori di ricerca. Questi video sono arricchiti tramite tecniche di Artificial Intelligence (AI) che individuano ed etichettano gli oggetti più rilevanti dell’esperimento presenti nel video ed il passo corrente dell’esperimento. L’interfaccia in questione presenta, oltre alle informazioni del modello di AI utilizzato, dei grafici contenenti delle tecniche di eXplainable AI (XAI) che forniscono delle motivazioni relative ai vari output del/i modello/i.  Il compito degli studenti sarà quello di rendere questa interfaccia conforme ai principi visti nel corso di Interazione Uomo Macchina (IUM), al fine di valutarla con uno user test tramite delle metriche qualitative e quantitative.
 
 
