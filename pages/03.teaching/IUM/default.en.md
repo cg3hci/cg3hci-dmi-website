@@ -16,4 +16,4 @@ to mobile, ubiquitous, distributed and natural interfaces.
 
 ##Additional Information
 * Teacher: [Lucio Davide Spano](http://people.unica.it/davidespano)
-* You can have a look to the [best projects archive]([Best projects archive](IUM-project-archive/default.en.md)   
+* You can have a look to the [Best projects archive](IUM-project-archive/default.en.md)   
