@@ -56,7 +56,8 @@ It represents a game as a graph of 360o video nodes (scenes), connected by arcs 
 <a id="gameplay"></a>
 
 ## Sample Gameplay: "Fratelli Rivali" 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=e4XGZwPpgvY&ab_channel=PACPAC"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/e4XGZwPpgvY" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##<iframe width="420" height="315" src="https://www.youtube.com/embed/e4XGZwPpgvY"></iframe>
 
 <a id="companies"></a>
 
