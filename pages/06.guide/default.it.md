@@ -13,7 +13,7 @@ url_taxonomy_filters: false
 
 <div style="text-align: center">
 <img src="/lab/user/pages/01.home/img/logocg3hci.png" alt="CG3HCI logo" />
-<img src="/lab/user/pages/06.home/img/batman_logo.png" alt="batman logo" />
+<img src="/lab/user/pages/06.guide/img/batman_logo.jpeg" alt="batman logo" />
 </div>
 
 #Guida galattica per i tirocinanti
@@ -53,7 +53,7 @@ Se non lo hai ancora fatto leggi [Qui](https://www.unica.it/unica/it/crs_60_61_2
 
 ##La Bat-caverna
 <div style="text-align: center">
-<img src="/lab/user/pages/06.home/img/batcave.jpg" alt="batcave" />
+<img src="/lab/user/pages/06.guide/img/batcave.jpg" alt="batcave" />
 </div>
 Da tirocinante hai accesso alla nostra Bat-Caverna, il rinomato **dungeon** del palazzo delle scienze.
 Come avrai modo di vedere è composta da due stanze:
