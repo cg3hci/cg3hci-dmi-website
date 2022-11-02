@@ -13,7 +13,7 @@ url_taxonomy_filters: false
 
 <div style="text-align: center">
 <img src="/lab/user/pages/01.home/img/logocg3hci.png" alt="CG3HCI logo" />
-<img src="/lab/user/pages/06.guide/img/batman_logo.png" alt="batman logo" />
+<img src="/lab/user/pages/06.guide/img/batman_logo.png" style="padding-bottom: 80px" alt="batman logo" />
 </div>
 
 #Guida galattica per i tirocinanti
