@@ -1,13 +1,14 @@
 ---
 title: Guida tirocinanti
 content:
-items:
-- '@self.children'
-order:
-by: date
-dir: desc
-pagination: true
-url_taxonomy_filters: false
+    items:
+        - '@self.children'
+    limit: 10
+    order:
+        by: date
+        dir: asc
+    pagination: true
+    url_taxonomy_filters: false
 ---
 
 
