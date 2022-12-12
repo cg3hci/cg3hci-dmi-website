@@ -6,7 +6,7 @@ visible: true
 ---
 # Tirocini inverno 2022
 
-Di seguito una serie di proposte per i tirocini su diversi progetti di ricerca, associati a tesi di laurea triennale. Registreremo le espressioni di interesse fino al 7 gennaio 2021. Dopo di che, comunicheremo agli studenti selezionati l'assegnazione del tirocinio. Nel caso, dopo l'assegnazione, ci fosse ancora qualche posto disponibile, riapriremo il periodo di candidatura.
+Di seguito una series di proposte per i tirocini su diversi progetti di ricerca, associati a tesi di laurea triennale. Registreremo le espressioni di interesse fino al 7 gennaio 2021. Dopo di che, comunicheremo agli studenti selezionati l'assegnazione del tirocinio. Nel caso, dopo l'assegnazione, ci fosse ancora qualche posto disponibile, riapriremo il periodo di candidatura.
 Tutti i tirocini saranno supervisionati dai proff. Cherchi, Scateni e Spano, in collaborazione con dottorandi, borsisti e tesisti della Laurea Magistrale che partecipano al progetto di ricerca.
 Per candidarsi, è sufficiente [compilare il form dedicato alla raccolta delle espressioni di interesse](https://forms.gle/wZFGcPmCqJyUoRsD6).
 
