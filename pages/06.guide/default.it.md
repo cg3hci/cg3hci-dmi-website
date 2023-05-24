@@ -51,7 +51,7 @@ Esempio:
 
 Esempio esplicativo di quale sia la gerarchia in Bat caverna:
 <div style="text-align: center">
-<img src="/lab/user/pages/06.guide/img/birds.png" alt="meme hierarchy" />
+<img src="/lab/user/pages/06.guide/img/birds.png" style="max-width: 40%"  alt="meme hierarchy" />
 </div>
 
 
