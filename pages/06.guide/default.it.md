@@ -44,10 +44,16 @@ Ricordati che anche loro sono persone impegnate, quindi cerca di rivolgerti a lo
 
 Esempio:
 *“Sono bloccato su questo pezzo di codice che non riesco a capire da **5 minuti**”*
-→ Mi informo sulla documentazione/leggo su internet/cerco di farcela da solo/a
+→ Mi informo sulla documentazione/leggo su internet/cerco di farcela da solo/a. Potete usare anche CHATGPT!
 
 *“Sono bloccato da **due giorni** su questo bug, ho provato di tutto e non riesco proprio ad andare avanti”*
 → Chiedo al mio mentore una mano
+
+Esempio esplicativo di quale sia la gerarchia in Bat caverna:
+<div style="text-align: center">
+<img src="/lab/user/pages/06.guide/img/birds.png" alt="meme hierarchy" />
+</div>
+
 
 ##Amministrazione
 Se non lo hai ancora fatto leggi [Qui](https://www.unica.it/unica/it/crs_60_61_23.page) dove ti spiegheranno come avviare la documentazione formale per l’avvio del tirocinio (dopo aver preso accordi col docente referente).
