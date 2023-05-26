@@ -1,5 +1,5 @@
 ---
-title: Progetti
+title: Tools
 content:
     items:
         - '@self.children'
@@ -10,6 +10,6 @@ content:
     url_taxonomy_filters: false
 ---
 
-# Progetti del Gruppo
+# Strumenti del Gruppo
 
 Di seguito una lista dei strumenti implementati dal laboratorio di ricerca.
