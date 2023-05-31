@@ -2,7 +2,8 @@
 title: XRSpotlight
 date: '26-06-2023 17:08'
 publish_date: '26-06-2023'
-visible: false
+visible: true
+routable: true
 ---
 
 <div style="text-align: center">
