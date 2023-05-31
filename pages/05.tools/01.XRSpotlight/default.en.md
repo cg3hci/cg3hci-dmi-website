@@ -8,13 +8,12 @@ routable: true
 
 <div style="text-align: center">
 <header>
-<p>XRSpotlight</p>
+<p>XRSpotlight is a Unity editor that enables users novice developers by curating a list of the XR interactions defined in a Unity scene and presenting them as rules in natural language. The support provided by XRSpotlight consists of three main features: (1) expressing interactions in natural language, (2) finding examples of similar interactions in the scene, and (3) copy-pasting interactions in a toolkit-agnostic way.
+
+The project code is available in the [Github](https://github.com/cg3hci/XRSpotlight/tree/main)</p>
 </header>
 </div>
 
-XRSpotlight is a Unity editor that enables users novice developers by curating a list of the XR interactions defined in a Unity scene and presenting them as rules in natural language. The support provided by XRSpotlight consists of three main features: (1) expressing interactions in natural language, (2) finding examples of similar interactions in the scene, and (3) copy-pasting interactions in a toolkit-agnostic way.
-
-The project code is available in the [Github](https://github.com/cg3hci/XRSpotlight/tree/main)
 
 ## Outline
 1. [Walkthrough Video](#video)
